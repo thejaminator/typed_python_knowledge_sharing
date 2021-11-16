@@ -1,0 +1,4 @@
+- No option / null coaelscing
+- No multiline lambdas
+- Async Await syntax is weird
+- Global interpreter lock
